@@ -4,29 +4,34 @@
     "password": "pass1",
     "start": "2025-06-29T00:00:00",
     "expire": "2025-07-06T23:59:59"
+    "allowedIps": ["1.2.3.4", "5.6.7.8"]
   },
   {
     "username": "user2",
     "password": "pass2",
     "start": "2025-06-28T00:00:00",
     "expire": "2025-07-03T23:59:59"
+    "allowedIps": ["1.2.3.4", "5.6.7.8"]
   },
   {
     "username": "user3",
     "password": "pass3",
     "start": "2025-06-27T00:00:00",
     "expire": "2025-07-01T23:59:59"
+    "allowedIps": ["1.2.3.4", "5.6.7.8"]
   },
   {
     "username": "user4",
     "password": "pass4",
     "start": "2025-06-25T00:00:00",
     "expire": "2025-06-30T23:59:59"
+    "allowedIps": ["1.2.3.4", "5.6.7.8"]
   },
   {
     "username": "user5",
     "password": "pass5",
     "start": "2025-06-20T00:00:00",
     "expire": "2025-06-29T23:59:59"
+    "allowedIps": ["1.2.3.4", "5.6.7.8"]
   }
 ]
