@@ -1,32 +1,37 @@
-[
+const users = [
   {
-    "username": "user1",
-    "password": "pass1",
-    "start": "2025-06-29T00:00:00",
-    "expire": "2025-07-06T23:59:59"
+    username: "admin",
+    password: "123456",
+    start: "2025-06-29T00:00:00",
+    expire: "2025-07-29T23:59:59",
+    deviceID: null
   },
   {
-    "username": "user2",
-    "password": "pass2",
-    "start": "2025-06-28T00:00:00",
-    "expire": "2025-07-03T23:59:59"
+    username: "user1",
+    password: "pass1",
+    start: "2025-06-28T00:00:00",
+    expire: "2025-07-05T23:59:59",
+    deviceID: null
   },
   {
-    "username": "user3",
-    "password": "pass3",
-    "start": "2025-06-27T00:00:00",
-    "expire": "2025-07-01T23:59:59"
+    username: "user2",
+    password: "pass2",
+    start: "2025-06-27T00:00:00",
+    expire: "2025-07-03T23:59:59",
+    deviceID: null
   },
   {
-    "username": "user4",
-    "password": "pass4",
-    "start": "2025-06-25T00:00:00",
-    "expire": "2025-06-30T23:59:59"
+    username: "user3",
+    password: "pass3",
+    start: "2025-06-26T00:00:00",
+    expire: "2025-07-01T23:59:59",
+    deviceID: null
   },
   {
-    "username": "user5",
-    "password": "pass5",
-    "start": "2025-06-20T00:00:00",
-    "expire": "2025-06-29T23:59:59"
+    username: "user4",
+    password: "pass4",
+    start: "2025-06-25T00:00:00",
+    expire: "2025-07-02T23:59:59",
+    deviceID: null
   }
-]
+];
