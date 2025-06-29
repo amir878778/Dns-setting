@@ -2,26 +2,26 @@
   {
     "username": "user1",
     "password": "pass1",
-    "expire": "2025-07-01"
+    "expire": "2025-07-01T12:00:00"
   },
   {
     "username": "user2",
     "password": "pass2",
-    "expire": "2025-07-02"
+    "expire": "2025-07-02T12:00:00"
   },
   {
     "username": "user3",
     "password": "pass3",
-    "expire": "2025-07-03"
+    "expire": "2025-07-03T12:00:00"
   },
   {
     "username": "user4",
     "password": "pass4",
-    "expire": "2025-07-04"
+    "expire": "2025-07-04T12:00:00"
   },
   {
     "username": "user5",
     "password": "pass5",
-    "expire": "2025-07-05"
+    "expire": "2025-07-05T12:00:00"
   }
 ]
