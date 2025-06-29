@@ -1,4 +1,27 @@
-{
-  "username": "AMIR",
-  "password": "2030"
-}
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "expire": "2025-07-01"
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "expire": "2025-07-02"
+  },
+  {
+    "username": "user3",
+    "password": "pass3",
+    "expire": "2025-07-03"
+  },
+  {
+    "username": "user4",
+    "password": "pass4",
+    "expire": "2025-07-04"
+  },
+  {
+    "username": "user5",
+    "password": "pass5",
+    "expire": "2025-07-05"
+  }
+]
