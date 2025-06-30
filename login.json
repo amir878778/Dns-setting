@@ -4,7 +4,7 @@
     "password": "k",
     "start": "2025-06-01T00:00:00",
     "expire": "2026-06-01T00:00:00",
-    "deviceID": "iphone16"
+    "deviceID": "3"
   },
   {
     "username": "user1",
@@ -31,7 +31,7 @@
     "username": "user4",
     "password": "password4",
     "start": "2025-06-05T00:00:00",
-    "expire": "2025-07-05T00:00:00",
+    "expire": "2025-06-05T00:00:00",
     "deviceID": ""
   },
   {
